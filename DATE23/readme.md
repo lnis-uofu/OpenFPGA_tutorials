@@ -16,9 +16,5 @@ Slides for the tutorials are provided here:
 
 [Tutorial 102](https://github.com/lnis-uofu/OpenFPGA_tutorials/blob/main/DATE23/slides/openfpga_tutorial_102.pdf)
 
-[Tutorial 103](https://github.com/lnis-uofu/OpenFPGA_tutorials/blob/main/DATE23/slides/openfpga_tutorial_102.pdf) 
-
-note: tutorial 103 will not be covered in this embedded tutorial. 
-
 
 ### Part 2: Redaction...
