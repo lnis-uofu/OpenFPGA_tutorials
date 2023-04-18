@@ -2,21 +2,23 @@
 
 ### Part 1: OpenFPGA
 
-####Get started by navitaging to the OpenFPGA repository located [here](https://github.com/lnis-uofu/OpenFPGA).
+Get started by navitaging to the OpenFPGA repository located [here](https://github.com/lnis-uofu/OpenFPGA).
 
-####Next open a interactive notebook by clinking the binder icon outlined in red below.
+Next open a interactive notebook by clinking the binder icon outlined in red below.
 
  <p align="center">
   <img src="images/binder_link.png" width="50%" height="50%">
 </p>
 
-####Slides for the tutorials are provided here:
+Slides for the tutorials are provided here:
 
-[Tutorial 101]()
+[Tutorial 101](https://github.com/lnis-uofu/OpenFPGA_tutorials/blob/main/DATE23/slides/openfpga_tutorial_101.pdf)
 
-[Tutorial 102]()
+[Tutorial 102](https://github.com/lnis-uofu/OpenFPGA_tutorials/blob/main/DATE23/slides/openfpga_tutorial_102.pdf)
 
-[Tutorial 103]()
+[Tutorial 103](https://github.com/lnis-uofu/OpenFPGA_tutorials/blob/main/DATE23/slides/openfpga_tutorial_102.pdf) 
+
+note: tutorial 103 will not be covered in this embedded tutorial. 
 
 
 ### Part 2: Redaction...
