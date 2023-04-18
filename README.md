@@ -3,7 +3,7 @@ Here we priovide a repository with hands on tutorials on how to use OpenFPGA. Na
 
 
 
-## [OpenFPGA]: https://github.com/lnis-uofu/OpenFPGA
+[OpenFPGA]: https://github.com/lnis-uofu/OpenFPGA
 
 
 
