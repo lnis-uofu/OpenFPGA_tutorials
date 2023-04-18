@@ -4,7 +4,7 @@
 
 #### Get started by navitaging to the OpenFPGA repository located [here](https://github.com/lnis-uofu/OpenFPGA).
 
-Open a interactive notebook by clinking the binder icon outlined in red below.
+To get started open a interactive notebook by clinking the binder icon outlined in red below.
 
  <p align="center">
   <img src="/images/binder_link.png">
