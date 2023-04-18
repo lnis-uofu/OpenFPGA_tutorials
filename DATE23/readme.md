@@ -1,4 +1,4 @@
-## Welcome to M03 Embedded FPGAs (eFPGA) and Applications to IP Protection via eFPGA Redaction at 2023 Design Automation and Test in Europe
+## Welcome to M03 Embedded FPGAs (eFPGA) and Applications to IP Protection via eFPGA Redaction
 
 ### Part 1: OpenFPGA
 
