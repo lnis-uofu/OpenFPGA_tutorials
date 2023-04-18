@@ -7,7 +7,8 @@
 To get started open a interactive notebook by clinking the binder icon outlined in red below.
 
  <p align="center">
-  <img src="images/binder_link.png">
+  <img src="images/binder_link.png" width="80%"
+height="80%">
 </p>
 
 
