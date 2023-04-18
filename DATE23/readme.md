@@ -6,7 +6,9 @@
 
 Open a interactive notebook by clinking the binder icon outlined in red below.
 
-
+ <p align="center">
+  <img src="/images/binder_link.png">
+</p>
 
 
 ## Part 2: Redaction...
