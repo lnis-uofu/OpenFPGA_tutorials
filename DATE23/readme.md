@@ -2,9 +2,9 @@
 
 ### Part 1: OpenFPGA
 
-#### Get started by navitaging to the OpenFPGA repository located [here](https://github.com/lnis-uofu/OpenFPGA).
+Get started by navitaging to the OpenFPGA repository located [here](https://github.com/lnis-uofu/OpenFPGA).
 
-Open a interactive notebook by clinking the binder icon outlined in red below.
+Next open a interactive notebook by clinking the binder icon outlined in red below.
 
  <p align="center">
   <img src="images/binder_link.png" width="50%" height="50%">
@@ -13,4 +13,4 @@ Open a interactive notebook by clinking the binder icon outlined in red below.
 
 
 
-## Part 2: Redaction...
+### Part 2: Redaction...
