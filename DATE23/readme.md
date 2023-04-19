@@ -11,6 +11,3 @@ Slides for the tutorials are provided here:
 [Tutorial 102](https://github.com/lnis-uofu/OpenFPGA_tutorials/blob/main/DATE23/slides/openfpga_tutorial_102.pdf) FPGA Fabric Netlist Generation
 
 [OpenFPGA Git Repository](https://github.com/lnis-uofu/OpenFPGA)
-
-
-### Part 2: Redaction...
