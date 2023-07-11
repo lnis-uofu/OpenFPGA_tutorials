@@ -1,6 +1,6 @@
 ## Welcome to M03 Embedded FPGAs (eFPGA) and Applications to IP Protection via eFPGA Redaction
 
-Get started by opening a interactive notebook by clicking the binder icon located [here]([https://mybinder.org/v2/gh/Lucaz97/ALICE/main?urlpath=vscode](https://mybinder.org/v2/gh/lnis-uofu/OpenFPGA/master?urlpath=vscode))
+Get started by opening a interactive notebook by clicking the binder icon located [here](https://mybinder.org/v2/gh/lnis-uofu/OpenFPGA/master?urlpath=vscode)
 
 Slides for the tutorials are provided here:
 
